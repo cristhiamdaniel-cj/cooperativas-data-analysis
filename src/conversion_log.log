@@ -1,0 +1,21 @@
+2024-10-15 16:21:39,389 - INFO - Abriendo diálogo para seleccionar archivos Excel.
+2024-10-15 16:21:46,739 - INFO - Archivos seleccionados: ('/home/usuario/Descargas/09-2024 SABANA DE DATOS.xlsx',)
+2024-10-15 16:21:46,740 - INFO - Procesando archivo: 09-2024 SABANA DE DATOS.xlsx
+2024-10-15 16:22:41,689 - INFO - Archivo Excel cargado exitosamente: 09-2024 SABANA DE DATOS.xlsx
+2024-10-15 16:22:41,689 - INFO - Estandarizando nombre de archivo: 09-2024 SABANA DE DATOS.csv
+2024-10-15 16:22:41,689 - INFO - Nuevo nombre de archivo estandarizado: 092024_sabana_de_datos.csv
+2024-10-15 16:22:43,942 - INFO - Archivo convertido y guardado como CSV: 092024_sabana_de_datos.csv
+2024-10-15 16:23:59,242 - INFO - Abriendo diálogo para seleccionar archivos Excel.
+2024-10-15 16:24:07,440 - INFO - Archivos seleccionados: ('/home/usuario/Descargas/APORTES 09-2024.xlsx',)
+2024-10-15 16:24:07,440 - INFO - Procesando archivo: APORTES 09-2024.xlsx
+2024-10-15 16:24:17,414 - INFO - Archivo Excel cargado exitosamente: APORTES 09-2024.xlsx
+2024-10-15 16:24:17,414 - INFO - Estandarizando nombre de archivo: APORTES 09-2024.csv
+2024-10-15 16:24:17,415 - INFO - Nuevo nombre de archivo estandarizado: aportes_092024.csv
+2024-10-15 16:24:17,938 - INFO - Archivo convertido y guardado como CSV: aportes_092024.csv
+2024-10-15 16:24:38,177 - INFO - Abriendo diálogo para seleccionar archivos Excel.
+2024-10-15 16:24:44,914 - INFO - Archivos seleccionados: ('/home/usuario/Descargas/INFORMACI├УN CARTERA 09-2024.xlsx',)
+2024-10-15 16:24:44,914 - INFO - Procesando archivo: INFORMACI├УN CARTERA 09-2024.xlsx
+2024-10-15 16:24:55,816 - INFO - Archivo Excel cargado exitosamente: INFORMACI├УN CARTERA 09-2024.xlsx
+2024-10-15 16:24:55,816 - INFO - Estandarizando nombre de archivo: INFORMACI├УN CARTERA 09-2024.csv
+2024-10-15 16:24:55,819 - INFO - Nuevo nombre de archivo estandarizado: informaciуn_cartera_092024.csv
+2024-10-15 16:24:56,448 - INFO - Archivo convertido y guardado como CSV: informaciуn_cartera_092024.csv

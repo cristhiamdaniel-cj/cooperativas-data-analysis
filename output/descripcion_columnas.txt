@@ -1,0 +1,493 @@
+El DataFrame combinado tiene 67483 registros y 113 columnas.
+
+Descripción de las columnas:
+Columna: SUCURSAL
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: FECHA_VINCULACION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: FECHA_ACTUALIZACION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: TIPO_IDENTIFICACION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: ID_ASOCIADO
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: GENERO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: ESTADO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: SEGMENTO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: FACTOR_RH
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: TIPO_ASOCIADO
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: EDAD
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: FECHA_NACIMIENTO
+Tipo de dato: object
+Valores nulos: 81
+
+Columna: LUGAR_NACIMIENTO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: ESTADO_CIVIL
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: RESULTADO_SARLAFT
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: ADMON_REC_PUBLI
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: PEP
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: MONEDA_EXTRANGERA
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: DECLARA_RENTA
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: PERSONAS_CARGO
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: ESTRATO
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: TIPO_VIVIENDA
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: NIVEL_ESTUDIOS
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: PROFESION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: OCUPACION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: OFICIO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: ACTIVIDAD_ECONOMICA
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: ACTIVIDAD_ECONOMINA_2
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: NOMBRE_EMPRESA
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: FORMALIDAD_NEGOCIO
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: DIRECION_OFICINA
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: TEL_OFICINA
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: CARGO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: AREA_DEPENDENCIA
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: TIPO_CONTRATO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: JORNADA_LABORAL
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: REGIMEN_CESANTIAS
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: MEDIO_PAGO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: GRUPO_FAMILIAR
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: UBICA1
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: SECCION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: UBICACION
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: PARENTESCO_ENTIDAD
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: NOMBRE
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: PARENTESCO
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: CUENTAS_INACTIVAS
+Tipo de dato: int64
+Valores nulos: 0
+
+Columna: BARRIO
+Tipo de dato: object
+Valores nulos: 0
+
+Columna: Tipo de identificación
+Tipo de dato: object
+Valores nulos: 13166
+
+Columna: Saldo de aportes
+Tipo de dato: float64
+Valores nulos: 13166
+
+Columna: Valor aporte mensual
+Tipo de dato: float64
+Valores nulos: 13166
+
+Columna: Saldo aportes ordinarios
+Tipo de dato: float64
+Valores nulos: 13166
+
+Columna: Saldo aportes extraordinarios
+Tipo de dato: float64
+Valores nulos: 13166
+
+Columna: Valor revalorización
+Tipo de dato: float64
+Valores nulos: 13166
+
+Columna: Monto promedio año
+Tipo de dato: float64
+Valores nulos: 13166
+
+Columna: Ultima fecha de pago
+Tipo de dato: object
+Valores nulos: 13166
+
+Columna: Suc. Cliente
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Estado
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Medio de pago
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Sld Aportes
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Tipo Obl.
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: No. Obligación
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Monto Solicitado
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Saldo Capital
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Sld Int
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Sld Mora
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Dias Vencidos
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Venc.Capital
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Tasa Peridodo(NAMV)
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Clasificacion
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Linea de credito
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Destinacion
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Modalidad
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Medio de pago Obligación
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Tipo Garantia
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Vlr Garantia
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Vlr.Cobertura Disponible
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Vlr Prov.Capital
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Vlr. Prov.Interes
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Vlr Aportes Util. en la Provision
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Fec.Aprobacion
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Fec. Prestamo
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Fec.Liquidacion
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Vlr Cuota
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: No.Cuotas
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Periodicidad
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Fec Inicio
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Fec. Vcto Final
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Altura
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Fec Vencto
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Calif.Antes Ley Arrast.
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Calif. Aplicada
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Calif.Mes Ant.
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Int Cte Orden
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Int Mora Orden
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Fec.Historico
+Tipo de dato: float64
+Valores nulos: 67483
+
+Columna: Sld Seg Vida
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Sld Seg Patrimonial
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Forma de Pago
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Fec Ult.Pago
+Tipo de dato: object
+Valores nulos: 56932
+
+Columna: Cuenta Contable
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Suc.Credito
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Cód. Garantía
+Tipo de dato: float64
+Valores nulos: 65248
+
+Columna: Cantidad Garantías
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: %Cobertura Garant.
+Tipo de dato: float64
+Valores nulos: 65248
+
+Columna: Vlr.aplicado Garant.
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Codeudores
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Garantía Real
+Tipo de dato: object
+Valores nulos: 56676
+
+Columna: Pagare
+Tipo de dato: object
+Valores nulos: 56760
+
+Columna: C Costo Cli.
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: C Costo Obl
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Dias vencidos Int
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columna: Instan.Aprob.
+Tipo de dato: float64
+Valores nulos: 67483
+
+Columna: Vencido Int
+Tipo de dato: float64
+Valores nulos: 56676
+
+Columnas con tipos de datos mixtos:
+- FECHA_NACIMIENTO
+- Tipo de identificación
+- Ultima fecha de pago
+- Estado
+- Medio de pago
+- Clasificacion
+- Linea de credito
+- Destinacion
+- Modalidad
+- Medio de pago Obligación
+- Tipo Garantia
+- Fec.Aprobacion
+- Fec. Prestamo
+- Fec.Liquidacion
+- Periodicidad
+- Fec Inicio
+- Fec. Vcto Final
+- Fec Vencto
+- Calif.Antes Ley Arrast.
+- Calif. Aplicada
+- Calif.Mes Ant.
+- Forma de Pago
+- Fec Ult.Pago
+- Codeudores
+- Garantía Real
+- Pagare
+
+Descripción estadística de las columnas numéricas:
+           SUCURSAL   ID_ASOCIADO  TIPO_ASOCIADO          EDAD  RESULTADO_SARLAFT  PERSONAS_CARGO       ESTRATO  ACTIVIDAD_ECONOMICA  ACTIVIDAD_ECONOMINA_2  FORMALIDAD_NEGOCIO  DIRECION_OFICINA  TEL_OFICINA  AREA_DEPENDENCIA  GRUPO_FAMILIAR   NOMBRE  PARENTESCO  CUENTAS_INACTIVAS  Saldo de aportes  Valor aporte mensual  Saldo aportes ordinarios  Saldo aportes extraordinarios  Valor revalorización  Monto promedio año  Suc. Cliente   Sld Aportes     Tipo Obl.  No. Obligación  Monto Solicitado  Saldo Capital       Sld Int      Sld Mora  Dias Vencidos  Venc.Capital  Tasa Peridodo(NAMV)  Vlr Garantia  Vlr.Cobertura Disponible  Vlr Prov.Capital  Vlr. Prov.Interes  Vlr Aportes Util. en la Provision     Vlr Cuota     No.Cuotas        Altura  Int Cte Orden  Int Mora Orden  Fec.Historico  Sld Seg Vida  Sld Seg Patrimonial  Cuenta Contable   Suc.Credito  Cód. Garantía  Cantidad Garantías  %Cobertura Garant.  Vlr.aplicado Garant.  C Costo Cli.   C Costo Obl  Dias vencidos Int  Instan.Aprob.   Vencido Int
+count  67483.000000  67483.000000   67483.000000  67483.000000            67483.0    67483.000000  67483.000000         67483.000000                67483.0             67483.0           67483.0      67483.0           67483.0         67483.0  67483.0     67483.0            67483.0      5.431700e+04          5.431700e+04              5.431700e+04                        54317.0               54317.0        5.431700e+04  10807.000000  1.080700e+04  10807.000000    1.080700e+04      1.080700e+04   1.080700e+04  1.080700e+04  1.080700e+04   10807.000000  1.080700e+04         10807.000000  1.080700e+04              1.080700e+04      1.080700e+04       1.080700e+04                            10807.0  1.080700e+04  10807.000000  10807.000000   1.080700e+04    1.080700e+04            0.0  1.080700e+04         10807.000000     1.080700e+04  10807.000000   2.235000e+03        10807.000000         2235.000000          1.080700e+04  10807.000000  10807.000000       10807.000000            0.0  1.080700e+04
+mean     122.174785  33987.403954       1.269801     35.947439                0.0        0.140020      2.097358          2919.053021                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      4.513572e+05          1.262361e+04              4.513572e+05                            0.0                   0.0        4.320484e+05    138.763209  1.358184e+06     10.036828    1.925836e+10      1.266722e+07   8.955544e+06  3.840543e+05  1.370098e+05      56.921717  4.011468e+05            25.254926  3.125874e+06              6.272898e+06      7.414289e+05       6.529789e+04                                0.0  6.712586e+05     31.680670      9.420283   1.767151e+05    1.344518e+05            NaN  2.321439e+04          2994.767928     1.452611e+07    138.723975   9.561591e+07            0.206995           69.281879          1.235732e+06    998.588415    998.588415          56.976219            NaN  2.409310e+05
+std       38.941033  19082.209772       0.990506     86.696543                0.0        0.498627      0.830339          3710.183423                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      1.241313e+06          1.331703e+04              1.241313e+06                            0.0                   0.0        1.206523e+06     48.655791  2.264504e+06      0.188348    3.954341e+09      2.063169e+07   1.555670e+07  2.285642e+06  1.451876e+06     182.663027  2.128534e+06             8.418329  3.759625e+07              7.432563e+07      3.840112e+06       8.143694e+05                                0.0  1.143420e+06     23.591582     12.381286   1.737256e+06    1.449246e+06            NaN  1.856587e+05         15963.132493     1.440545e+05     48.637560   2.048036e+07            0.405628            6.181832          9.897880e+06     19.131613     19.131613         185.709063            NaN  2.256915e+06
+min      101.000000   1111.000000       1.000000  -1000.000000                0.0        0.000000      0.000000             0.000000                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      1.000000e+03          0.000000e+00              1.000000e+03                            0.0                   0.0        1.000000e+03    101.000000  1.636200e+04     10.000000    1.172200e+04      9.000000e+04   1.629800e+04 -5.858024e+06 -5.145800e+04       0.000000 -9.901424e+06             4.880000  0.000000e+00              0.000000e+00      0.000000e+00       0.000000e+00                                0.0  9.927000e+03      1.000000      0.000000   0.000000e+00    0.000000e+00            NaN -1.744900e+04         -3982.000000     1.441050e+07    101.000000   1.000000e+00            0.000000            0.000000          0.000000e+00    103.000000    103.000000           0.000000            NaN -6.749227e+06
+25%      102.000000  17373.500000       1.000000     28.000000                0.0        0.000000      1.000000             0.000000                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      4.861100e+04          1.300000e+04              4.861100e+04                            0.0                   0.0        4.700600e+04    103.000000  2.706145e+05     10.000000    1.910600e+10      3.000000e+06   1.977952e+06  1.850900e+04  0.000000e+00       0.000000 -1.265000e+02            20.260000  0.000000e+00              0.000000e+00      0.000000e+00       0.000000e+00                                0.0  1.918165e+05     13.000000      0.000000   0.000000e+00    0.000000e+00            NaN  0.000000e+00             0.000000     1.442050e+07    103.000000   1.000002e+08            0.000000           70.000000          0.000000e+00    999.000000    999.000000           0.000000            NaN  0.000000e+00
+50%      105.000000  33944.000000       1.000000     43.000000                0.0        0.000000      2.000000           124.000000                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      1.254060e+05          1.300000e+04              1.254060e+05                            0.0                   0.0        1.209480e+05    108.000000  5.606080e+05     10.000000    1.920500e+10      6.000000e+06   4.176313e+06  7.357800e+04  0.000000e+00       0.000000  0.000000e+00            25.620000  0.000000e+00              0.000000e+00      0.000000e+00       0.000000e+00                                0.0  3.134690e+05     27.000000      4.000000   0.000000e+00    0.000000e+00            NaN  2.836000e+03             0.000000     1.442050e+07    108.000000   1.000005e+08            0.000000           70.000000          0.000000e+00    999.000000    999.000000           0.000000            NaN  0.000000e+00
+75%      110.000000  50419.000000       1.000000     57.000000                0.0        0.000000      3.000000          6424.000000                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      3.498860e+05          1.300000e+04              3.498860e+05                            0.0                   0.0        3.201420e+05    205.000000  1.461868e+06     10.000000    2.010100e+10      1.300000e+07   9.148000e+06  2.585075e+05  0.000000e+00       0.000000  0.000000e+00            32.020000  0.000000e+00              0.000000e+00      7.498900e+04       2.358500e+03                                0.0  6.768635e+05     36.000000     14.000000   0.000000e+00    0.000000e+00            NaN  1.176000e+04             0.000000     1.462250e+07    205.000000   1.000011e+08            0.000000           70.000000          0.000000e+00    999.000000    999.000000           0.000000            NaN  0.000000e+00
+max      216.000000  67236.000000       5.000000    108.000000                0.0       10.000000      6.000000          9900.000000                    0.0                 0.0               0.0          0.0               0.0             0.0      0.0         0.0                0.0      4.487998e+07          1.300000e+06              4.487998e+07                            0.0                   0.0        4.147493e+07    216.000000  4.487998e+07     11.000000    2.421100e+10      4.700000e+08   3.842523e+08  1.264017e+08  7.588301e+07    2615.000000  9.456920e+07            40.180000  1.798549e+09              2.291748e+09      1.128286e+08       7.770525e+07                                0.0  3.600000e+07    180.000000     70.000000   1.063446e+08    7.587898e+07            NaN  1.171935e+07        771840.000000     1.476250e+07    216.000000   1.000050e+08            2.000000           70.000000          3.842523e+08    999.000000    999.000000        2615.000000            NaN  1.264017e+08

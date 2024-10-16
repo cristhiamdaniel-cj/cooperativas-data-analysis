@@ -1,0 +1,25 @@
+
+
+================================================================================
+Limpieza de Datos
+================================================================================
+
+Limpieza de datos para el archivo: aportes_092024.csv
+Filas eliminadas por duplicados: 0
+Archivo limpio guardado en: /home/usuario/PycharmProjects/cooperativas-data-analysis/output/cleaned_aportes_092024.csv
+
+================================================================================
+
+Limpieza de datos para el archivo: informaciуn_cartera_092024.csv
+Filas eliminadas por duplicados: 0
+Archivo limpio guardado en: /home/usuario/PycharmProjects/cooperativas-data-analysis/output/cleaned_informaciуn_cartera_092024.csv
+
+================================================================================
+
+Limpieza de datos para el archivo: 092024_sabana_de_datos.csv
+Filas eliminadas por duplicados: 0
+Valores nulos eliminados en 'FECHA_VINCULACION': 6
+Archivo limpio guardado en: /home/usuario/PycharmProjects/cooperativas-data-analysis/output/cleaned_092024_sabana_de_datos.csv
+
+================================================================================
+
