@@ -11,7 +11,7 @@ Este proyecto contiene un análisis detallado de los datos de una cooperativa, c
 
 El análisis está disponible en el siguiente enlace:
 
-- [Ver análisis en HTML](https://<TU-USUARIO>.github.io/cooperativas-data-analysis/output/cooperativas_data_analysis.html)
+- [Ver análisis en HTML](https://cristhiamdaniel-cj.github.io/cooperativas-data-analysis/output/cooperativas_data_analysis.html)
 
 Este enlace te llevará directamente a una versión en HTML del análisis, donde se incluyen todas las gráficas y resultados de manera interactiva.
 
